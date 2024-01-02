@@ -2,6 +2,7 @@
   "name": "pf",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://leeheesue.github.io/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
